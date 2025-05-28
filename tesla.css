@@ -159,7 +159,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .landing-image{
     height: 100vh;
     width: 100%;
-    background-image: url(./tesla.png);
+    background-image: url(./images/tesla.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -259,7 +259,7 @@ background-color: rgba(75, 65, 65, 0.4);
 .landing-image2{
     height: 100vh;
     width: 100%;
-    background: url(./tesla2.png);
+    background: url(./images/tesla2.png);
     background-size: cover;
    background-repeat: no-repeat;
    background-position: center;
@@ -308,7 +308,7 @@ border-radius: 3px;
 .landing-image3{
        height: 100vh;
     width: 100%;
-    background-image: url(./tesla3.png);
+    background-image: url(./images/tesla3.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -376,7 +376,7 @@ background-color: rgba(75, 65, 65, 0.4);
 }
 /* Ending of image 3 */
 .landing-image4{
-    background-image: url(./tesla4.png);
+    background-image: url(./images/tesla4.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -423,7 +423,7 @@ border-radius: 3px;
 background-color: white;
 }
 .landing-image5{
-    background-image: url(./tesla5.png);
+    background-image: url(./images/tesla5.png);
     height: 100vh;
     width: 100%;
     
@@ -432,7 +432,7 @@ background-color: white;
     background-position: center;
 }
 .solar{
-    background-image: url(./tesla6.png);
+    background-image: url(./images/tesla6.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -440,7 +440,7 @@ background-color: white;
     background-position: center;
 }
 .solar-roof{
-    background-image: url(./tesla7.png);
+    background-image: url(./images/tesla7.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -448,7 +448,7 @@ background-color: white;
     background-position: center;
 }
 .powerwall{
-       background-image: url(./tesla8.png);
+       background-image: url(./images/tesla8.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
@@ -456,7 +456,7 @@ background-color: white;
     background-position: center;
 }
 .accessories{
-     background-image: url(./tesla9.png);
+     background-image: url(./images/tesla9.png);
     height: 100vh;
     width: 100%;
     background-size: cover;
